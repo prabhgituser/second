@@ -1,0 +1,26 @@
+Git Architecture
+
+
+There are four elements in sequence:
+
+
+1. Working directory
+2. staging Area
+3. Local Repository
+4. Remote Repository
+
+
+
+1. working Directory  :  here we are doing writing and editing.
+
+                     then we give (git add .)command and it
+                     moves to
+
+
+2. staging area  :  here processing done
+                    after that we give (git commit -m "message")command
+                     It moves to
+
+3. Local Repository: here we give command (git push -u origin master)
+                     It moves to
+4. Remote Repository
